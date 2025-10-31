@@ -12,7 +12,7 @@
 <h3 align="center">💫 connect with me</h3>
 
 <div align="center">
-  <a href="https://linktr.ee/ozlemelo" target="_blank">
+  <a href="https://linktr.ee/ozyverse" target="_blank">
     <img src="https://img.shields.io/badge/Linktree-1de9b6?logo=linktree&logoColor=white&style=for-the-badge" height="25" alt="Linktree" />
   </a>
   <a href="https://www.linkedin.com/in/ozlemekici/" target="_blank">
@@ -21,7 +21,7 @@
   <a href="mailto:ozlemekici9774@gmail.com?subject=Merhaba" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="25" alt="Gmail" />
   </a>
-  <a href="https://medium.com/@ozlemelo" target="_blank">
+  <a href="https://medium.com/@ozyverse" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=for-the-badge" height="25" alt="Medium" />
   </a>
   <a href="https://www.kaggle.com/ozlemekici" target="_blank">
@@ -30,7 +30,7 @@
   <a href="https://www.upwork.com/freelancers/~01550e7089fbce960f" target="_blank">
     <img src="https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=white&style=for-the-badge" height="25" alt="Upwork" />
   </a>
-  <a href="https://huggingface.co/ozlemelo" target="_blank">
+  <a href="https://huggingface.co/ozyverse" target="_blank">
     <img src="https://img.shields.io/badge/HuggingFace-FFD21F?logo=huggingface&logoColor=black&style=for-the-badge" height="25" alt="HuggingFace" />
   </a>
 </div>
