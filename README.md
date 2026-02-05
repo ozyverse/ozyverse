@@ -90,15 +90,15 @@
 <h3 align="center">🔥 my stats</h3>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ozlemelo&theme=transparent&hide_border=false" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ozlemelo&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ozlemelo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false" height="150" alt="languages graph" />
-  <img src="https://github-profile-trophy.vercel.app/?username=ozlemelo&theme=transparent&no-bg=true&no-frame=true&column=-1&row=1&margin-w=0&margin-h=0" height="150" alt="trophy graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ozlemelo&theme=github-compact&bg_color=00000000&hide_border=true&hide_title=false&radius=16&area=true" height="180" alt="activity-graph graph" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ozyverse&theme=transparent&hide_border=false" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ozyverseo&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ozyverse&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ozyverse&theme=transparent&no-bg=true&no-frame=true&column=-1&row=1&margin-w=0&margin-h=0" height="150" alt="trophy graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ozyverse&theme=github-compact&bg_color=00000000&hide_border=true&hide_title=false&radius=16&area=true" height="180" alt="activity-graph graph" />
 </div>
 
 <div align="center">
-  <a href="https://www.github.com/ozlemelo" target="_blank">
+  <a href="https://www.github.com/ozyverse" target="_blank">
     <img src="https://raw.githubusercontent.com/ozlemelo/ozlemelo/output/snake.svg" alt="Snake animation" />
   </a>
 </div>
@@ -107,7 +107,7 @@
 
 <p align="center">☕ help me by donating</p>
 <div align="center">
-  <a href="https://www.buymeacoffee.com/ozlemelo" target="_blank">
+  <a href="https://buymeacoffee.com/ozyverse" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="50" alt="Buy Me A Coffee"  />
   </a>
 </div>
